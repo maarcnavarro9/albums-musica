@@ -1,0 +1,700 @@
+1
+1971
+What's Going On
+Marvin Gaye
+Album
+4.65
+41
+2
+1966
+Pet Sounds
+The Beach Boys
+Album
+4.45
+48
+3
+1971
+Blue
+Joni Mitchell
+Album
+4.45
+19
+4
+1976
+Songs in the Key of Life
+Stevie Wonder
+Album
+4.55
+25
+5
+1969
+Abbey Road
+The Beatles
+Album
+4.7
+54
+6
+1991
+Nevermind
+Nirvana
+Album
+4.45
+76
+7
+1977
+Rumours
+Fleetwood Mac
+Album
+4.45
+60
+8
+1984
+Purple Rain
+Prince and The Revolution
+Album + Soundtrack
+4.25
+37
+9
+1975
+Blood on the Tracks
+Bob Dylan
+Album
+4.3
+26
+10
+1998
+The Miseducation of Lauryn Hill
+Lauryn Hill
+Album
+4.15
+13
+11
+1966
+Revolver
+The Beatles
+Album
+4.65
+40
+12
+1982
+Thriller
+Michael Jackson
+Album
+4.45
+57
+13
+1967
+I Never Loved a Man the Way I Love You
+Aretha Franklin
+Album
+3.8
+13
+14
+1972
+Exile on Main St.
+The Rolling Stones
+Album
+4.35
+45
+15
+1988
+It Takes a Nation of Millions to Hold Us Back
+Public Enemy
+Album
+3.35
+23
+16
+1979
+London Calling
+The Clash
+Album
+4.25
+35
+17
+2010
+My Beautiful Dark Twisted Fantasy
+Kanye West
+Album
+4.5
+16
+18
+1965
+Highway 61 Revisited
+Bob Dylan
+Album
+4.25
+29
+19
+2015
+To Pimp a Butterfly
+Kendrick Lamar
+Album
+4.65
+9
+20
+2000
+Kid A
+Radiohead
+Album
+4.55
+30
+21
+1975
+Born to Run
+Bruce Springsteen
+Album
+4.35
+54
+22
+1994
+Ready to Die
+The Notorious B.I.G.
+Album
+4.25
+11
+23
+1967
+The Velvet Underground & Nico
+The Velvet Underground & Nico
+Album
+4.7
+34
+24
+1967
+Sgt. Pepper's Lonely Hearts Club Band
+The Beatles
+Album
+4.55
+60
+25
+1971
+Tapestry
+Carole King
+Album
+4
+36
+26
+1975
+Horses
+Patti Smith
+Album
+4.15
+21
+27
+1993
+Enter the Wu-Tang (36 Chambers)
+Wu-Tang Clan
+Album
+4.65
+15
+28
+2000
+Voodoo
+D'Angelo
+Album
+4.5
+9
+29
+1968
+The Beatles ("The White Album")
+The Beatles
+Album
+4.35
+50
+30
+1967
+Are You Experienced
+The Jimi Hendrix Experience
+Album
+3.95
+44
+31
+1959
+Kind of Blue
+Miles Davis
+Album
+4.5
+108
+32
+2016
+Lemonade
+Beyonce
+Album
+4.1
+12
+33
+2006
+Back to Black
+Amy Winehouse
+Album
+4.1
+36
+34
+1973
+Innervisions
+Stevie Wonder
+Album
+5
+31
+35
+1965
+Rubber Soul
+The Beatles
+Album
+4.45
+46
+36
+1979
+Off the Wall
+Michael Jackson
+Album
+4.35
+37
+37
+1992
+The Chronic
+Dr. Dre
+Album
+4.1
+26
+38
+1966
+Blonde on Blonde
+Bob Dylan
+Album
+4.2
+44
+39
+1980
+Remain in Light
+Talking Heads
+Album
+4.3
+27
+40
+1972
+The Rise and Fall of Ziggy Stardust and the Spiders From Mars
+David Bowie
+Album
+4.6
+49
+41
+1969
+Let It Bleed
+The Rolling Stones
+Album
+4.45
+32
+42
+1997
+OK Computer
+Radiohead
+Album
+4.65
+37
+43
+1991
+The Low End Theory
+A Tribe Called Quest
+Album
+3.8
+15
+44
+1994
+Illmatic
+Nas
+Album
+4.15
+20
+45
+1987
+Sign "??" the Times
+Prince
+Album
+4.15
+15
+46
+1986
+Graceland
+Paul Simon
+Album
+4.6
+41
+47
+1976
+Ramones
+Ramones
+Album
+4
+16
+48
+1984
+Legend: The Best of Bob Marley and The Wailers
+Bob Marley & The Wailers
+Album + Compilation
+4.2
+57
+49
+1998
+Aquemini
+OutKast
+Album
+4.15
+13
+50
+2001
+The Blueprint
+JayZ
+Album
+3.7
+5
+51
+1982
+The Great Twenty Eight
+Chuck Berry
+Album + Compilation
+3.7
+4
+52
+1976
+Station to Station
+David Bowie
+Album
+4.1
+26
+53
+1968
+Electric Ladyland
+The Jimi Hendrix Experience
+Album
+3.85
+48
+54
+1991
+Star Time
+James Brown
+Album + Compilation
+5
+3
+55
+1973
+The Dark Side of the Moon
+Pink Floyd
+Album
+4.8
+94
+56
+1993
+Exile in Guyville
+Liz Phair
+Album
+4.25
+6
+57
+1969
+The Band ("The Brown Album")
+The Band
+Album
+4.35
+20
+58
+1971
+Led Zeppelin IV
+Led Zeppelin
+Album
+4.75
+68
+59
+1972
+Talking Book
+Stevie Wonder
+Album
+5
+19
+60
+1968
+Astral Weeks
+Van Morrison
+Album
+4.25
+14
+61
+1987
+Paid in Full
+Eric B. & Rakim
+Album
+3.8
+6
+62
+1987
+Appetite for Destruction
+Guns N' Roses
+Album
+4.4
+57
+63
+1977
+Aja
+Steely Dan
+Album
+4.2
+34
+64
+2000
+Stankonia
+OutKast
+Album
+3.95
+18
+65
+1963
+Live at the Apollo, 1962
+James Brown
+Album + Live
+4.5
+8
+66
+1965
+A Love Supreme
+John Coltrane
+Album
+4.7
+32
+67
+1996
+Reasonable Doubt
+JayoZ
+Album
+4.15
+7
+68
+1985
+Hounds of Love
+Kate Bush
+Album
+3.85
+27
+69
+1995
+Jagged Little Pill
+Alanis Morissette
+Album
+4.15
+35
+70
+1988
+Straight Outta Compton
+N.W.A
+Album
+4
+16
+71
+1977
+Exodus
+Bob Marley & The Wailers
+Album
+4.75
+35
+72
+1972
+Harvest
+Neil Young
+Album
+4.45
+21
+73
+1991
+Loveless
+My Bloody Valentine
+Album
+4.5
+18
+74
+2003
+The College Dropout
+Kanye West
+Album
+4.4
+17
+75
+1968
+Lady Soul
+Aretha Franklin
+Album
+5
+12
+76
+1972
+Superfly
+Curtis Mayfield
+Album + Soundtrack
+4.6
+18
+77
+1971
+Who's Next
+The Who
+Album
+4.4
+52
+78
+1975
+The Sun Sessions
+Elvis Presley
+Album + Compilation
+4
+4
+79
+2016
+Blonde
+Frank Ocean
+Album
+4.65
+5
+80
+1977
+Never Mind the Bollocks Here's the Sex Pistols
+Sex Pistols
+Album
+4.65
+39
+81
+2013
+BEYONCE
+Beyonce
+Album
+4
+22
+82
+1971
+There's a Riot Goin' On
+Sly & the Family Stone
+Album
+3.65
+19
+83
+1969
+Dusty in Memphis
+Dusty Springfield
+Album
+4
+18
+84
+1980
+Back in Black
+AC/DC
+Album
+4.4
+49
+85
+1970
+John Lennon/Plastic Ono Band
+John Lennon/Plastic Ono Band
+Album
+3.85
+20
+86
+1967
+The Doors
+The Doors
+Album
+4.5
+38
+87
+1970
+Bitches Brew
+Miles Davis
+Album
+4.9
+33
+88
+1971
+Hunky Dory
+David Bowie
+Album
+4.35
+32
+89
+1997
+Baduizm
+Erykah Badu
+Album
+4
+6
+90
+1970
+After the Gold Rush
+Neil Young
+Album
+4.9
+22
+91
+1978
+Darkness on the Edge of Town
+Bruce Springsteen
+Album
+5
+54
+92
+1967
+Axis: Bold as Love
+The Jimi Hendrix Experience
+Album
+3.9
+38
+93
+1997
+Supa Dupa Fly
+Missy Misdemeanor Elliott
+Album
+3.65
+7
+94
+1970
+Fun House
+The Stooges
+Album
+4.2
+14
+95
+2011
+Take Care
+Drake
+Album
+3.65
+6
+96
+1992
+Automatic for the People
+R.E.M.
+Album
+3.9
+26
+97
+1986
+Master of Puppets
+Metallica
+Album
+4.65
+53
+98
+1998
+Car Wheels on a Gravel Road
+Lucinda Williams
+Album
+4.5
+9
+99
+2012
+Red
+Taylor Swift
+Album
+4.4
+77
+100
+1968
+Music From Big Pink
+The Band
+Album
+4
+22
